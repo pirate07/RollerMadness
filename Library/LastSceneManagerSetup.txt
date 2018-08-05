@@ -1,0 +1,13 @@
+sceneSetups:
+- path: Assets/Scenes/Start.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Scenes/Select Level.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/Scenes/Level1.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/Scenes/Level2.unity
+  isLoaded: 1
+  isActive: 0
